@@ -34,6 +34,7 @@ Destaque técnico:
 - O uso de caminhos absolutos garante que o script funcione corretamente em qualquer ambiente (IDE, terminal ou servidor).
 
 Como executar o projeto
+
   1.) Clone o repositório:
 
         git clone https://github.com/seu-usuario/Analisa-o-documento-e-o-texto-e-retorna-resumo-e-principais-pontos-com-LangChain-e-Groq
