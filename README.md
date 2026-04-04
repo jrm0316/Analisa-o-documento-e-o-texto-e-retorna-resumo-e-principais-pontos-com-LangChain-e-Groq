@@ -1,4 +1,4 @@
-# Analisa-o-documento-e-o-texto-e-retorna-resumo-e-principais-pontos-com-LangChain-e-Groq
+# Processamento e Análise de Documentos com IA (Python + LLM)
 Propósito do projeto
 - Este projeto tem como objetivo demonstrar como integrar Inteligência Artificial a fluxos reais de backend, permitindo que a IA leia arquivos de texto automaticamente e gere análises estruturadas a partir do conteúdo.
 - O sistema transforma arquivos .txt em insumos para modelos de linguagem, simulando cenários comuns em aplicações corporativas, como análise de documentos, relatórios e textos extensos.
