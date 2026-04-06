@@ -77,5 +77,5 @@ Resumo profissional
 - Projeto em Python utilizando LangChain e Groq para análise automática de documentos de texto.
 - O sistema lê arquivos .txt, envia o conteúdo para um modelo de linguagem e retorna resumos e pontos-chave, aplicando boas práticas de Prompt Engineering e integração com LLMs em aplicações backend.
 
-Autor
+Autor  
   Desenvolvido por Juliano Rodrigues Madeira
